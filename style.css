@@ -1,5 +1,5 @@
 .background {
-    background-image: url('./squidGameBackground.jpg');
+    background-color: rgba(0, 0, 0, 0.904);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
